@@ -1,0 +1,17 @@
+region,product,sales
+Nord,Electrònica,420000
+Nord,Mobiliari,180000
+Nord,Alimentació,300000
+Nord,Roba,220000
+Sud,Electrònica,250000
+Sud,Mobiliari,200000
+Sud,Alimentació,150000
+Sud,Roba,120000
+Est,Electrònica,310000
+Est,Mobiliari,140000
+Est,Alimentació,190000
+Est,Roba,160000
+Oest,Electrònica,280000
+Oest,Mobiliari,210000
+Oest,Alimentació,170000
+Oest,Roba,130000
